@@ -167,11 +167,7 @@ const Wizard = React.memo(function Wizard(props) {
         scale={[169.511, 285.253, 259.532]}
       />
                 
-              </group>
-            </group>
-          </group>
-        </group>
-      </group>
+          
 
      
 
@@ -347,6 +343,13 @@ const Wizard = React.memo(function Wizard(props) {
                   material={materials.ZadnieFanari}
                   position={[447.839, 7147.549, 6800.736]}
                 />
+
+
+                    </group>
+            </group>
+          </group>
+        </group>
+      </group>
 </group>
 </group>
    </group>  </group>     </group>   </group> </group>
