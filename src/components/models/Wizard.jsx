@@ -156,11 +156,7 @@ const Wizard = React.memo(function Wizard(props) {
                   geometry={nodes.Walls_Walls_0.geometry}
                   material={materials.Walls}
                 />
-              </group>
-            </group>
-          </group>
-        </group>
-      </group>
+
       <mesh
         castShadow
         receiveShadow
@@ -170,6 +166,13 @@ const Wizard = React.memo(function Wizard(props) {
         rotation={[-0.005, -0.036, 0]}
         scale={[169.511, 285.253, 259.532]}
       />
+                
+              </group>
+            </group>
+          </group>
+        </group>
+      </group>
+
      
 
               
